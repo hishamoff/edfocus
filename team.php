@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,13 +5,13 @@
     <!-- Meta Tags for Social Sharing -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="EdFocus Technologies - Your Entryway to Cutting-Edge E-Learning Technologies">
-    <meta name="keywords" content="EdFocus, E-Learning, Education, Technology">
+    <meta name="description" content="EdFocus Technologies - Your Entryway to Cutting-Edge Technologies">
+    <meta name="keywords" content="EdFocus, Development, Technology">
     <meta name="author" content="Your Name or Company Name">
 
     <!-- Open Graph (OG) Tags for Social Sharing -->
     <meta property="og:title" content="EdFocus Technologies">
-    <meta property="og:description" content="Your entryway to a world of cutting-edge e-learning technologies.">
+    <meta property="og:description" content="Your entryway to a world of cutting-edge technologies.">
     <meta property="og:image" content="https://edfocustech.com/assets/images/logo/logo.webp">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">

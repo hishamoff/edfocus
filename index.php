@@ -5,13 +5,13 @@
     <!-- Meta Tags for Social Sharing -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="EdFocus Technologies - Your Entryway to Cutting-Edge E-Learning Technologies">
-    <meta name="keywords" content="EdFocus, E-Learning, Education, Technology">
+    <meta name="description" content="EdFocus Technologies - Your Entryway to Cutting-Edge Technologies">
+    <meta name="keywords" content="EdFocus, Development, Technology">
     <meta name="author" content="Your Name or Company Name">
 
     <!-- Open Graph (OG) Tags for Social Sharing -->
     <meta property="og:title" content="EdFocus Technologies">
-    <meta property="og:description" content="Your entryway to a world of cutting-edge e-learning technologies.">
+    <meta property="og:description" content="Your entryway to a world of cutting-edge technologies.">
     <meta property="og:image" content="https://edfocustech.com/assets/images/logo/logo.webp">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -70,7 +70,7 @@
                                 Technologies.
                             </p>
                             <div class="hero-banner-two__btn wow fadeInUp" data-wow-delay="600ms">
-                                <a href="services.php" class="eduact-btn eduact-btn-second"><span
+                                <a href="services" class="eduact-btn eduact-btn-second"><span
                                         class="eduact-btn__curve"></span>Our Services<i class="icon-arrow"></i></a>
                             </div><!-- banner-btn -->
                         </div><!-- banner-content -->
@@ -172,7 +172,7 @@
                                 <li><span class="icon-check"></span>Collaborative Development</li>
                                 <li><span class="icon-check"></span>Lifelong Support</li>
                             </ul>
-                            <a href="about.php" class="eduact-btn"><span class="eduact-btn__curve"></span>Discover
+                            <a href="about" class="eduact-btn"><span class="eduact-btn__curve"></span>Discover
                                 More<i class="icon-arrow"></i></a><!-- /.btn -->
                         </div><!-- about content end -->
                     </div>
@@ -219,7 +219,7 @@
                                 <p class="service-two__text">Elevate User Experiences with Exceptional UI/UX Designing
                                     with Edfocus</p>
 
-                                <a class="service-two__rm" href="contact.php">Enquire<span
+                                <a class="service-two__rm" href="contact">Enquire<span
                                         class="icon-caret-right"></span></a>
                             </div>
                         </div><!-- /.service-card-one -->
@@ -238,7 +238,7 @@
                                 </h3><!-- /.service-title -->
                                 <p class="service-two__text">Transform Your Vision into a Dynamic Web Presence with
                                     Edfocus Development Service</p><!-- /.service-content -->
-                                <a class="service-two__rm" href="contact.php">Enquire<span
+                                <a class="service-two__rm" href="contact">Enquire<span
                                         class="icon-caret-right"></span></a>
                             </div>
                         </div><!-- /.service-card-one -->
@@ -257,7 +257,7 @@
                                 </h3><!-- /.service-title -->
                                 <p class="service-two__text">Captivate Audiences with Stunning Graphic Designs by
                                     Edfocus Designers</p><!-- /.service-content -->
-                                <a class="service-two__rm" href="contact.php">Enquire<span
+                                <a class="service-two__rm" href="contact">Enquire<span
                                         class="icon-caret-right"></span></a>
                             </div>
                         </div><!-- /.service-card-one -->
@@ -276,7 +276,7 @@
                                 </h3><!-- /.service-title -->
                                 <p class="service-two__text">Unlocking the Full Potential of Your Software with Our
                                     Expert Consulting Services</p><!-- /.service-content -->
-                                <a class="service-two__rm" href="contact.php">Enquire<span
+                                <a class="service-two__rm" href="contact">Enquire<span
                                         class="icon-caret-right"></span></a>
                             </div>
                         </div><!-- /.service-card-one -->

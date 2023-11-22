@@ -5,13 +5,13 @@
     <!-- Meta Tags for Social Sharing -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="EdFocus Technologies - Your Entryway to Cutting-Edge E-Learning Technologies">
-    <meta name="keywords" content="EdFocus, E-Learning, Education, Technology">
+    <meta name="description" content="EdFocus Technologies - Your Entryway to Cutting-Edge Technologies">
+    <meta name="keywords" content="EdFocus, Development, Technology">
     <meta name="author" content="Your Name or Company Name">
 
     <!-- Open Graph (OG) Tags for Social Sharing -->
     <meta property="og:title" content="EdFocus Technologies">
-    <meta property="og:description" content="Your entryway to a world of cutting-edge e-learning technologies.">
+    <meta property="og:description" content="Your entryway to a world of cutting-edge technologies.">
     <meta property="og:image" content="https://edfocustech.com/assets/images/logo/logo.webp">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -116,7 +116,7 @@
                                 <li><span class="icon-check"></span>Collaborative Development</li>
                                 <li><span class="icon-check"></span>Lifelong Support</li>
                             </ul>
-                            <a href="about.php" class="eduact-btn"><span class="eduact-btn__curve"></span>Discover
+                            <a href="about" class="eduact-btn"><span class="eduact-btn__curve"></span>Discover
                                 More<i class="icon-arrow"></i></a><!-- /.btn -->
                         </div><!-- about content end -->
                     </div>
@@ -194,6 +194,7 @@
             </div>
         </section>
         <!-- Counter End -->
+
 
 
       <?php include('footer.php'); ?>

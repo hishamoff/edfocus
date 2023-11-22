@@ -2,29 +2,29 @@
     <nav class="main-menu">
         <div class="container">
             <div class="main-menu__logo">
-                <a href="index.php">
+                <a href="/">
                     <img src="assets/images/logo/logo.webp" width="183" height="48" alt="Eduact">
                 </a>
             </div><!-- /.main-menu__logo -->
             <div class="main-menu__nav">
                 <ul class="main-menu__list">
                     <li class="megamenu">
-                        <a href="index.php">Home</a>
+                        <a href="index">Home</a>
                     </li>
                     <li class="megamenu">
-                        <a href="about.php">About</a>
+                        <a href="about">About</a>
                     </li>
                     <li class="megamenu">
-                        <a href="services.php">Services</a>
+                        <a href="services">Services</a>
                     </li>
                     <li class="megamenu">
-                        <a href="team.php">Our team</a>
+                        <a href="team">Our team</a>
                     </li>
                     <li class="megamenu">
-                        <a href="careers.php">Career</a>
+                        <a href="careers">Career</a>
                     </li>
                     <li class="megamenu">
-                        <a href="contact.php">Contact</a>
+                        <a href="contact">Contact</a>
                     </li>
 
                 </ul>
