@@ -422,8 +422,8 @@
                                 </div><!-- testimonial-quote -->
                                 <div class="testimonial-two__meta">
 
-                                    <h5 class="testimonial-two__title">Amit Patel</h5>
-                                    <span class="testimonial-two__designation">Mumbai</span>
+                                    <h5 class="testimonial-two__title">Amit</h5>
+                                    <span class="testimonial-two__designation">Kochi</span>
                                 </div><!-- testimonial-meta -->
                                 <svg viewBox="0 0 416 249" xmlns="http://www.w3.org/2000/svg">
                                     <g filter="url(#filter0_d_324_36064)">
@@ -482,7 +482,7 @@
                                 <div class="testimonial-two__meta">
 
                                     <h5 class="testimonial-two__title">Arun</h5>
-                                    <span class="testimonial-two__designation">Kerala</span>
+                                    <span class="testimonial-two__designation">Kollam</span>
                                 </div><!-- testimonial-meta -->
                                 <svg viewBox="0 0 416 249" xmlns="http://www.w3.org/2000/svg">
                                     <g filter="url(#filter0_d_324_36064)">

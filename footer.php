@@ -47,10 +47,19 @@
         </div><!-- /.row -->
     </div><!-- /.container -->
 </footer><!-- /.main-footer-two -->
-
 <section class="copyright text-center">
     <div class="container wow fadeInUp" data-wow-delay="400ms">
         <p class="copyright__text">Copyright <span class="dynamic-year"></span> edfocus. All Rights Reserved
         </p>
     </div><!-- /.container -->
 </section><!-- /.copyright -->
+
+<div class="fixed-contact">
+
+<a href="tel:+917025042570" target="_blank"><i class="fa fa-phone"></i></a>
+
+<a href="https://wa.me/917025042570?text=Hi%20EdupAth" target="_blank"><i class="fab fa-whatsapp"></i></a>
+
+<a href="mailto:edfocustech@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+
+ </div>

@@ -87,6 +87,86 @@
                             </div><!-- /.team-content -->
                         </div><!-- /.team-two -->
                     </div>
+
+
+
+                    
+                    <div class="container">
+                <div class="second-team row">
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="team-two__item">
+                            <div class="team-two__image">
+                                <img src="assets/images/team/team-2-1.jpg" alt="eduact">
+                            </div><!-- /.team-image -->
+                            <div class="team-two__content">
+                                <h3 class="team-two__title">
+                                    <a href="team-details.html">Ms. Sajomol Nixon</a>
+                                </h3><!-- /.team-name -->
+                                <span class="team-two__designation">Administrator</span><!-- /.team-designation -->
+                                <div class="team-two__social">
+                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                                </div><!-- /.team-social -->
+                            </div><!-- /.team-content -->
+                        </div><!-- /.team-two -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="team-two__item">
+                            <div class="team-two__image">
+                                <img src="assets/images/team/team-2-2.jpg" alt="eduact">
+                            </div><!-- /.team-image -->
+                            <div class="team-two__content">
+                                <h3 class="team-two__title">
+                                    <a href="team-details.html">Mr. Jaison Varghese</a>
+                                </h3><!-- /.team-name -->
+                                <span class="team-two__designation">Creative Head</span><!-- /.team-designation -->
+                                <div class="team-two__social">
+                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                                </div><!-- /.team-social -->
+                            </div><!-- /.team-content -->
+                        </div><!-- /.team-two -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="team-two__item">
+                            <div class="team-two__image">
+                                <img src="assets/images/team/team-2-3.jpg" alt="eduact">
+                            </div><!-- /.team-image -->
+                            <div class="team-two__content">
+                                <h3 class="team-two__title">
+                                    <a href="team-details.html">Ms. Sangeetha S Pillai</a>
+                                </h3><!-- /.team-name -->
+                                <span class="team-two__designation">Creative Lead</span><!-- /.team-designation -->
+                                <div class="team-two__social">
+                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                                </div><!-- /.team-social -->
+                            </div><!-- /.team-content -->
+                        </div><!-- /.team-two -->
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="team-two__item">
+                            <div class="team-two__image">
+                                <img src="assets/images/team/team-2-3.jpg" alt="eduact">
+                            </div><!-- /.team-image -->
+                            <div class="team-two__content">
+                                <h3 class="team-two__title">
+                                    <a href="team-details.html">Ms. Divyamanjari P</a>
+                                </h3><!-- /.team-name -->
+                                <span class="team-two__designation">Project Coordinator</span><!-- /.team-designation -->
+                                <div class="team-two__social">
+                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                                </div><!-- /.team-social -->
+                            </div><!-- /.team-content -->
+                        </div><!-- /.team-two -->
+                    </div>
+
         </section>
         <!-- Blog End -->
 

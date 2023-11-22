@@ -777,6 +777,18 @@
   height: 309px;
   z-index: -1;
 }
+ .second-team .team-two__item::before {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: var(--eduact-secondary);
+  content: '';
+  border-radius: 0 0 200px 200px;
+  width: 100%;
+  height: 200px;
+  z-index: -1;
+} 
+
 
 .team-two__item::after {
   position: absolute;
@@ -795,8 +807,15 @@
   transition: all 0.4s linear;
 }
 
+
 .team-two__item:hover::after {
   height: 309px;
+  visibility: visible;
+  opacity: 1;
+}
+
+.second-team .team-two__item:hover::after {
+  height: 210px;
   visibility: visible;
   opacity: 1;
 }
@@ -835,6 +854,20 @@
   overflow: hidden;
   border-radius: 200px;
   margin: 0 31.5px;
+}
+
+@media only screen and (min-width: 600px) {
+  .second-team .team-two-item::before{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: var(--eduact-secondary);
+  content: '';
+  border-radius: 0 0 200px 200px;
+  width: 100%;
+  height: 310px !important;
+  z-index: -1;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -889,6 +922,25 @@
   -webkit-transform: translate3d(-100px, 0, 0);
 }
 
+.second-team .team-two__title {
+  font-size: 20px;
+  color: var(--eduact-white);
+  line-height: 1;
+  margin: 0;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: all ease .5s;
+  -moz-transition: all ease .5s;
+  transition: all ease .5s;
+  transform: translate3d(-100px, 0, 0);
+  -moz-transform: translate3d(-100px, 0, 0);
+  -webkit-transform: translate3d(-100px, 0, 0);
+}
+
+.second-team {
+  margin-top: 50px;
+}
+
 .team-two__title a {
   color: inherit;
 }
@@ -899,6 +951,22 @@
 
 .team-two__designation {
   font-size: 20px;
+  color: var(--eduact-white);
+  line-height: 1;
+  display: block;
+  margin: 5px 0 22px;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: all ease .5s;
+  -moz-transition: all ease .5s;
+  transition: all ease .5s;
+  transform: translate3d(100px, 0, 0);
+  -moz-transform: translate3d(100px, 0, 0);
+  -webkit-transform: translate3d(100px, 0, 0);
+}
+
+.second-team .team-two__designation {
+  font-size: 12px;
   color: var(--eduact-white);
   line-height: 1;
   display: block;
@@ -16786,3 +16854,28 @@ body.boxed-wrapper .hero-banner__thumb {
 /*=========================
    End Contact Us CSS
 ===========================*/
+
+
+.fixed-contact {
+  position: fixed;
+  position: fixed;
+  right: 20px;
+  bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  z-index: 1000
+}
+
+.fixed-contact a {
+  background-color: #D17628;
+  color: #fff;
+  padding: 10px 15px;
+  margin: 3px 0;
+  border-radius: 50%;
+  font-size: 18px
+}
+
+.fixed-contact a .fa-location-dot {
+  position: relative;
+  left: 2px
+}
