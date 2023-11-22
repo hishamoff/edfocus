@@ -141,7 +141,7 @@
                                 <span class="count-box">
                                     <span class="count-text" data-stop="100" data-speed="1500"></span>
                                 </span>+
-                            </div><!-- /.fact-one__count -->
+                            </div><!-- /.fact-one_count -->
                             <h3 class="fact-one__title">Projects Completed</h3><!-- /.fact-one__title -->
                         </div><!-- /.fact-item -->
                     </div>
