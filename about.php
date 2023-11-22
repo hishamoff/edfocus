@@ -196,9 +196,7 @@
         <!-- Counter End -->
 
 
-
-
-        <?php include('footer.php'); ?>
+      <?php include('footer.php'); ?>
 
     </div><!-- /.page-wrapper -->
 
