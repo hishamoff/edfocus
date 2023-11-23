@@ -44,13 +44,9 @@
                             </ul>
                             <h3 class="become-team__title">Areas of Expertise</h3>
                             <p class="become-team__text">
-                                Our vision is to become a trail blazing force in the realm of educational technology,
-                                motivated by an unwavering dedication to the significant advantages of value-driven
-                                education. Our goal is to equip learners with the means/tools to harness and improve
-                                their acquired knowledge that act as a catalyst for a future where knowledge and
-                                sustainability are attainable by all. At the heart of our vision lies a commitment to
-                                nurture responsible global citizens who can achieve harmony, enlightenment and shared
-                                success in any venture.
+                            Our vision is to become a trail blazing force in the realm of technology, motivated by an unwavering dedication to the significant advantages of value-driven innovation. Our goal is to equip learners with the means/tools to harness and improve their acquired skills that act as a catalyst for a future where information and sustainability are attainable by all. At the heart of our vision lies a commitment to nurture responsible global citizens who can achieve harmony, enlightenment and shared success in any venture.
+
+
                         </div>
                     </div>
                     <div class="col-lg-5 wow fadeInUp animated" data-wow-delay="400ms">

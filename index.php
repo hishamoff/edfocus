@@ -147,9 +147,9 @@
                                 </h2>
                             </div><!-- section-title -->
                             <p class="about-two__content__text">
-                                At EdFocus, we're your gateway to cutting-edge e-learning technology. Our mission is to
-                                enhance lifelong learning through innovative apps, designed collaboratively by
-                                educators, developers, and designers. We believe in tailored, engaging education, backed
+                            At EdFocus, we're your gateway to cutting-edge technology. Our mission is to
+                                enhance lifelong needs through innovative apps, designed collaboratively by
+                                developers, and designers. We believe in tailored, engaging technologies, backed
                                 by research and catered to diverse needs. Join us on a journey toward a brighter,
                                 smarter future.
                             </p>
