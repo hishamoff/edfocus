@@ -31,7 +31,7 @@
 
 
         <!-- About Start -->
-        <section class="about-two">
+        <section class="about-two pb-5">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6">
@@ -91,13 +91,30 @@
                                 </h2>
                             </div><!-- section-title -->
                             <p class="about-two__content__text">
-                                At EdFocus, we're your gateway to cutting-edge technology. Our mission is to
-                                enhance lifelong needs through innovative apps, designed collaboratively by
-                                developers, and designers. We believe in tailored, engaging technologies, backed
-                                by research and catered to diverse needs. Join us on a journey toward a brighter,
-                                smarter future.
+                            EdFocus technologies, your entryway to a world of cutting edge e-learning technologies. Here at EdFocus we are committed to boost learning through the wise use of technology since we are driven by the shared belief that learning is a lifelong journey. We have set out on a quest to improve education one app at a time with the help of a team of passionate educators, seasoned developers and creative designers.
+
+Our journey begins with a simple yet profound concept: to make learning approachable, engaging and tailored to individual needs. We are aware that every learner is unique, which is why our motto is to carefully cater the products to a wide range of ages, subjects and learning styles.
+
+We take pleasure in staying at the forefront of educational research to make sure the products are not just technologically advanced but also rooted in sound educational principles.
+
+At EdFocus, we value the role of educators, parents and students in shaping the future of education. We carefully collaborate with educators, subject matter experts and students to develop apps that resonate with the real requirements of the classroom.
+
+Whether you are a student trying to learn new skills, a teacher seeking innovative classroom tools, or a parent trying to support your child’s educational journey, we are here to provide you with all the tools that you need to succeed. Join us as we continue to push the limits of what is conceivable in education and let's work together to help every learner reach their full potential. Welcome to a brighter, smarter future with EdFocus.
                             </p>
-                            <div class="about-two__box">
+                           
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About End -->
+
+
+
+<section>
+<div class="container mt-0 pt-0">
+<div class="row">
+<div class="about-two__box">
+
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295 125">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                         d="M86 0.0805664H58C25.9675 0.0805664 0 26.048 0 58.0806V79.5806C0 104.157 19.9233 124.081 44.5 124.081H46.5C69.9721 124.081 89 105.053 89 81.5806C89 58.1085 108.028 39.0806 131.5 39.0806H268C282.912 39.0806 295 26.9923 295 12.0806C295 5.45315 289.627 0.0805664 283 0.0805664H89H86Z" />
@@ -105,26 +122,39 @@
                                 <div class="about-two__box__icon"><span class="icon-Presentation"></span></div>
                                 <h4 class="about-two__box__title">Our Mission</h4>
                                 <p class="about-two__box__text">
-                                    Empowering Peoples with Innovative Technology for a Brighter Future. Welcome to
-                                    EdFocus Technologies.
-                                </p>
-                            </div><!-- /.icon-box -->
-                            <ul class="about-two__lists clearfix">
-                                <li><span class="icon-check"></span>Personalized Designing
-                                </li>
-                                <li><span class="icon-check"></span>Cutting-Edge Technology</li>
-                                <li><span class="icon-check"></span>Collaborative Development</li>
-                                <li><span class="icon-check"></span>Lifelong Support</li>
-                            </ul>
-                            <a href="about" class="eduact-btn"><span class="eduact-btn__curve"></span>Discover
-                                More<i class="icon-arrow"></i></a><!-- /.btn -->
-                        </div><!-- about content end -->
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- About End -->
+                                In the future, EdFocus aspires to enable learners with the autonomy to discover their own unique routes to success and knowledge. Our primary mission is to provide tools and resources necessary for individuals to acquire knowledge at their own pace with diverse needs and learning styles.
 
+Every learner is a master of their own educational journey in accordance with our vision. Our line-up of advanced educational services and apps has been deliberately developed to accommodate various approaches of learning, aptitude and dynamics. Such needs are catered by adaptive learning algorithms that adjust content based on proficiency or extensive libraries of resources spanning a multitude of subjects.
+
+We also consider ourselves as partners in lifelong learning rather than merely software solution providers. Our vision also includes establishing a community that nurtures self-directed learning. Join us in our vision where every learner is empowered to thrive at their own momentum to reach their greatest potential in an ever-evolving world of knowledge.
+                                </p>
+
+                                
+                            </div><!-- /.icon-box -->
+
+                            <div class="about-two__box">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295 125">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M86 0.0805664H58C25.9675 0.0805664 0 26.048 0 58.0806V79.5806C0 104.157 19.9233 124.081 44.5 124.081H46.5C69.9721 124.081 89 105.053 89 81.5806C89 58.1085 108.028 39.0806 131.5 39.0806H268C282.912 39.0806 295 26.9923 295 12.0806C295 5.45315 289.627 0.0805664 283 0.0805664H89H86Z" />
+</svg>
+<div class="about-two__box__icon"><span class="icon-business"></span></div>
+<h4 class="about-two__box__title">Our Vision</h4>
+<p class="about-two__box__text">
+Our vision is to become a trail blazing force in the realm of educational technology, motivated by an unwavering dedication to the significant advantages of value-driven education. Our goal is to equip learners with the means/tools to harness and improve their acquired knowledge that act as a catalyst for a future where knowledge and sustainability are attainable by all. At the heart of our vision lies a commitment to nurture responsible global citizens who can achieve harmony, enlightenment and shared success in any venture.
+
+
+</p>
+                            
+                                </div>
+                        </div><!-- about content end -->
+
+                        
+
+                        
+</div>
+
+</section>
         <!-- Counter Start -->
         <!-- Counter Start -->
         <section class="fact-one" style="background-image: url(assets/images/shapes/fact-bg-1.png);">

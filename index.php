@@ -354,6 +354,118 @@
         </section>
         <!-- Counter End -->
 
+        <section class="course-two">
+            <div class="course-two__shape-top wow fadeInRight animated" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;"><img src="assets/images/shapes/course-shape-1.png" alt="eduact"></div>
+            <div class="container wow fadeInUp animated" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInUp;">
+                <div class="section-title">
+                    <h5 class="section-title__tagline">
+                        Best Products
+                        <svg class="arrow-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 13">
+                            <g clip-path="url(#clip0_324_36194)">
+                                <path d="M10.5406 6.49995L0.700562 12.1799V8.56995L4.29056 6.49995L0.700562 4.42995V0.819946L10.5406 6.49995Z"></path>
+                                <path d="M25.1706 6.49995L15.3306 12.1799V8.56995L18.9206 6.49995L15.3306 4.42995V0.819946L25.1706 6.49995Z"></path>
+                                <path d="M39.7906 6.49995L29.9506 12.1799V8.56995L33.5406 6.49995L29.9506 4.42995V0.819946L39.7906 6.49995Z"></path>
+                                <path d="M54.4206 6.49995L44.5806 12.1799V8.56995L48.1706 6.49995L44.5806 4.42995V0.819946L54.4206 6.49995Z"></path>
+                            </g>
+                        </svg>
+                    </h5>
+                    <h2 class="section-title__title">Our Products</h2>
+                </div><!-- section-title -->
+
+
+                <div class="row">
+                    <div class="item col-lg-4 col-md-6 ">
+                        <div class="course-two__item">
+                            <div class="course-two__thumb">
+                                <img src="assets/images/services/1.webp" alt="eduact">
+                                <a class="course-two__like" href="javascript:void(0);"><span class="icon-like"></span></a>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 353 177">
+                                    <path d="M37 0C16.5655 0 0 16.5655 0 37V93.4816C0 103.547 4.00259 113.295 11.7361 119.737C54.2735 155.171 112.403 177 176.496 177C240.589 177 298.718 155.171 341.261 119.737C348.996 113.295 353 103.546 353 93.4795V37C353 16.5655 336.435 0 316 0H37Z"></path>
+                                </svg>
+                            </div><!-- /.course-thumb -->
+                            <div class="course-two__content">
+                                <!-- <div class="course-two__time">3 Months</div> -->
+                                <div class="course-two__ratings">
+                                    <span class="icon-star"></span><span class="icon-star"></span><span class="icon-star"></span><span class="icon-star"></span><span class="icon-star"></span>
+                                    <div class="course-two_ratings_reviews"></div>
+                                </div>
+                                <h3 class="course-two__title">
+                                    <a href="#!">Product #1</a>
+                                </h3>
+
+                                <p> offers effective career guidance and strategies, helping individuals make informed,
+                                    fulfilling career choices.</p>
+                                <div class="mt-3 text-center">
+                                    <a href="contact" class="eduact-btn w-100"><span class="eduact-btn__curve"></span>Join
+                                        Now<i class="icon-arrow"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item col-lg-4 col-md-6 ">
+                        <div class="course-two__item">
+                            <div class="course-two__thumb">
+                                <img src="assets/images/services/2.webp" alt="eduact">
+                                <a class="course-two__like" href="javascript:void(0);"><span class="icon-like"></span></a>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 353 177">
+                                    <path d="M37 0C16.5655 0 0 16.5655 0 37V93.4816C0 103.547 4.00259 113.295 11.7361 119.737C54.2735 155.171 112.403 177 176.496 177C240.589 177 298.718 155.171 341.261 119.737C348.996 113.295 353 103.546 353 93.4795V37C353 16.5655 336.435 0 316 0H37Z"></path>
+                                </svg>
+                            </div><!-- /.course-thumb -->
+                            <div class="course-two__content">
+                                <!-- <div class="course-two__time">3 Months</div> -->
+                                <div class="course-two__ratings">
+                                    <span class="icon-star"></span><span class="icon-star"></span><span class="icon-star"></span><span class="icon-star"></span><span class="icon-star"></span>
+                                    <div class="course-two_ratings_reviews"></div>
+                                </div>
+                                <h3 class="course-two__title">
+                                    <a href="#!">Product #2</a>
+                                </h3>
+
+                                <p>A user-friendly solution for English proficiency, ensuring competency with a seamless
+                                    and enjoyable experience.</p>
+                                <div class="mt-3 text-center">
+                                    <a href="contact" class="eduact-btn w-100"><span class="eduact-btn__curve"></span>Join
+                                        Now<i class="icon-arrow"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item col-lg-4 col-md-6 ">
+                        <div class="course-two__item">
+                            <div class="course-two__thumb">
+                                <img src="assets/images/services/3.webp" alt="eduact">
+                                <a class="course-two__like" href="javascript:void(0);"><span class="icon-like"></span></a>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 353 177">
+                                    <path d="M37 0C16.5655 0 0 16.5655 0 37V93.4816C0 103.547 4.00259 113.295 11.7361 119.737C54.2735 155.171 112.403 177 176.496 177C240.589 177 298.718 155.171 341.261 119.737C348.996 113.295 353 103.546 353 93.4795V37C353 16.5655 336.435 0 316 0H37Z"></path>
+                                </svg>
+                            </div><!-- /.course-thumb -->
+                            <div class="course-two__content">
+                                <!-- <div class="course-two__time">3 Months</div> -->
+                                <div class="course-two__ratings">
+                                    <span class="icon-star"></span><span class="icon-star"></span><span class="icon-star"></span><span class="icon-star"></span><span class="icon-star"></span>
+                                    <div class="course-two_ratings_reviews"></div>
+                                </div>
+                                <h3 class="course-two__title">
+                                    <a href="#!">Product #3</a>
+                                </h3>
+
+                                <p> A comprehensive digital reference tool, your lifelong partner for personalized
+                                    educational and proficiency needs.</p>
+                                <div class="mt-3 text-center">
+                                    <a href="contact" class="eduact-btn w-100"><span class="eduact-btn__curve"></span>Join
+                                        Now<i class="icon-arrow"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="course-two__shape-bottom wow fadeInLeft animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInLeft;"><img src="assets/images/shapes/course-shape-2.png" alt="eduact"></div>
+        </section>
+
+
 
         <section class="testimonial-two" style="background-image: url(assets/images/shapes/testimonial-bg-2.png);">
             <div class="container">
